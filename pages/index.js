@@ -102,13 +102,28 @@ const index3 = () => {
                 we have onboard Dynamic Professionals and the Best Digital Marketers, helping us to create Powerful 
                 Brand Experiences for our Clients. Business Owners belonging to different Industries, in need of 
                 Business Growth and Marketing needs, resort to us for the best Business Plans. From
-                <a href="/website-development">Web Design and development</a>, 
-                <a href="/digital-marketing">Search Engine Optimization</a>, 
-                <a href="/digital-marketing">Social Media Optimization</a>, and
-                  <a href="/digital-marketing">Social Media Marketing</a>, 
-                  we, as Among the Top digital marketing companies in pune, leave no stone unturned to let your 
-                  business be armed with a distinctive tag.</p>
-                <a href="/about" class="wel-readmore">Read More</a>
+                <Link href="/website-development">
+                    <a> Web Design and development</a>
+                  </Link>, 
+                <Link href="/digital-marketing">
+                    <a> Search Engine Optimization</a>
+                  </Link>, 
+                  <Link href="/digital-marketing">
+                    <a> Social Media Optimization </a>
+                  </Link>, and
+                  <Link href="/digital-marketing">
+                    <a> Social Media Marketing </a>
+                  </Link>.
+               
+                
+                   
+                  We, as Among the Top digital marketing companies in pune, leave no stone unturned to let your 
+                  business be armed with a distinctive tag.
+              </p>
+                
+              <Link href="/about">
+                <a class="wel-readmore"> Read More </a>
+              </Link>
             </div>
           </div>
         </div>
