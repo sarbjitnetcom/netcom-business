@@ -54,4 +54,11 @@ const ImageView = () => {
     </Fragment>
   );
 };
+const func = () => {
+  return (
+    <div>
+      {"you're"} free
+    </div>
+  )
+}
 export default ImageView;
